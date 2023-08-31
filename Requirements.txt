@@ -1,0 +1,6 @@
+dlib
+opencv
+firebase
+face_regonition
+pickle
+os
